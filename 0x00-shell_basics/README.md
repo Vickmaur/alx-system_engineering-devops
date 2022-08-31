@@ -1,1 +1,1 @@
-A script to print current working directory
+A script that changes the working directory to the user’s home directory.
