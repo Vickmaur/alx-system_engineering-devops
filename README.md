@@ -1,1 +1,1 @@
-A new readme file
+shell init files,variables and variables
